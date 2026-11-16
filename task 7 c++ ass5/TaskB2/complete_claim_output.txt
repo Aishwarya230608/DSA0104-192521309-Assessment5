@@ -1,0 +1,6 @@
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/DSA01-192521309-Assignment5/TaskB2/complete_claim.cpp -o /mnt/data/DSA01-192521309-Assignment5/TaskB2/complete_claim
+$ /mnt/data/DSA01-192521309-Assignment5/TaskB2/complete_claim
+approved 40000
+audit: exceeds cover
+claim rejected: exceeds cover
+error: negative amount

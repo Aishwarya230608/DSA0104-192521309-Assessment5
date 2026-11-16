@@ -1,0 +1,5 @@
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/DSA01-192521309-Assignment5/TaskB4/main.cpp -o /mnt/data/DSA01-192521309-Assignment5/TaskB4/main
+$ /mnt/data/DSA01-192521309-Assignment5/TaskB4/main
+Emergency total 1500
+corporate covered 1350
+caught negative emergency charge

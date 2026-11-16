@@ -1,0 +1,3 @@
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/DSA01-192521309-Assignment5/TaskB2/predict_rethrow.cpp -o /mnt/data/DSA01-192521309-Assignment5/TaskB2/predict_rethrow
+$ /mnt/data/DSA01-192521309-Assignment5/TaskB2/predict_rethrow
+ok done caught negative [log too large] caught too large 

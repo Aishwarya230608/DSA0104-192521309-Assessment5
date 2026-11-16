@@ -1,0 +1,20 @@
+$ g++ -std=c++17 -O2 -Wall -Wextra -pedantic /mnt/data/DSA01-192521309-Assignment5/TaskB3/benchmark.cpp -o /mnt/data/DSA01-192521309-Assignment5/TaskB3/benchmark
+$ /mnt/data/DSA01-192521309-Assignment5/TaskB3/benchmark
+N=1000
+virtual seconds=3.159e-06 checksum=4.6e+06
+switch seconds=1.28e-06 checksum=4.6e+06
+variant seconds=1.7e-06 checksum=4.6e+06
+N=1000000
+virtual seconds=0.00761104 checksum=4.6e+09
+switch seconds=0.00483916 checksum=4.6e+09
+variant seconds=0.0404613 checksum=4.6e+09
+N=10000000
+virtual seconds=0.0466782 checksum=4.6e+10
+switch seconds=0.0240542 checksum=4.6e+10
+variant seconds=0.0355919 checksum=4.6e+10
+return-code-0% seconds=0.000964623 checksum=1e+06
+exception-0% seconds=0.0012035 checksum=1e+06
+return-code-1% seconds=0.000774575 checksum=990000
+exception-1% seconds=0.0155456 checksum=990000
+return-code-50% seconds=0.000880261 checksum=500000
+exception-50% seconds=0.531224 checksum=500000

@@ -1,0 +1,10 @@
+$ g++ -std=c++17 -Wall -Wextra -pedantic TaskB2/error_conditions.cpp -o error_conditions
+$ ./error_conditions
+negative test: negative charge
+cover test: claim exceeds cover
+package test: unknown package code
+record test: patient record missing
+parse test: stod
+tracked object destroyed
+top-level catch-all
+allocation test: bad_alloc caught

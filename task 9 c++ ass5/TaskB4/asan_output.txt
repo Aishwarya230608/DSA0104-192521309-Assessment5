@@ -1,0 +1,5 @@
+$ g++ -std=c++17 -Wall -Wextra -g -fsanitize=address -fno-omit-frame-pointer /mnt/data/DSA01-192521309-Assignment5/TaskB4/main.cpp -o /mnt/data/DSA01-192521309-Assignment5/TaskB4/main
+$ /mnt/data/DSA01-192521309-Assignment5/TaskB4/main
+
+STDERR:
+==423==ASan runtime does not come first in initial library list; you should either link runtime to your application or manually preload it with LD_PRELOAD.

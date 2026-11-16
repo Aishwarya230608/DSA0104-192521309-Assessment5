@@ -1,0 +1,4 @@
+$ g++ -std=c++17 -Wall -Wextra -pedantic /mnt/data/DSA01-192521309-Assignment5/TaskB2/raii.cpp -o /mnt/data/DSA01-192521309-Assignment5/TaskB2/raii
+$ /mnt/data/DSA01-192521309-Assignment5/TaskB2/raii
+resource released
+caught: test failure

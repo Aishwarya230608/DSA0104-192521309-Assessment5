@@ -1,0 +1,19 @@
+$ g++ -std=c++17 -Wall -Wextra -pedantic TaskB1/full_hospital.cpp -o full_hospital
+$ ./full_hospital
+OP 1700
+  SelfPay covers 1700
+  Insurance covers 1360
+  GovernmentScheme covers 1500
+IP 49000
+  SelfPay covers 49000
+  Insurance covers 24000
+  GovernmentScheme covers 45000
+DayCare 22000
+  SelfPay covers 22000
+  Insurance covers 17600
+  GovernmentScheme covers 18000
+Emergency 3500
+  SelfPay covers 3500
+  Insurance covers 2800
+  GovernmentScheme covers 5000
+Daily total 76200

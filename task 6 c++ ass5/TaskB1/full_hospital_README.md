@@ -1,0 +1,2 @@
+# Full hospital hierarchy
+This companion implementation tests all four required bill types (out-patient, in-patient, day-care, emergency) against SelfPay, Insurance and GovernmentScheme. Government rates are sample fixed package rates for demonstration; replace them with rates supplied by your instructor/hospital case data if provided. Compile with `g++ -std=c++17 -Wall -Wextra -pedantic full_hospital.cpp -o full_hospital`.
